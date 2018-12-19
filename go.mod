@@ -1,1 +1,1 @@
-module github.com/jormenjanssen/netlink/v3
+module github.com/jormenjanssen/netlink/v1
